@@ -1,5 +1,7 @@
 # I310D-bias
 **CONTENT WARNING: both `bias_analysis.ipynb` and `labeled_and_scored_comments.csv` contain abusive and derogatory language.**
+
+The latter is not used for my analysis but is provided as examples of how the model works.
 ### Purpose
 The purpose of this project is to test the Perspective model for bias.
 ### Hypothesis
